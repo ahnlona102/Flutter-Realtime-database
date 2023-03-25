@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>71586977717-8jodvsfcol75ga2ktf7fr8oumuerbkik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.71586977717-8jodvsfcol75ga2ktf7fr8oumuerbkik</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>71586977717-cvvvetrosu9t796d5nnvtv1vfq1rakr7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDc85_-l2_9rMmka0fzG5LhZt2vIkdzOLI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>71586977717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crudRealtimedb</string>
+	<key>PROJECT_ID</key>
+	<string>crud-realtimedb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crud-realtimedb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:71586977717:ios:9d5dd9e19ccf97e2e46bfc</string>
+	<key>DATABASE_URL</key>
+	<string>https://crud-realtimedb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

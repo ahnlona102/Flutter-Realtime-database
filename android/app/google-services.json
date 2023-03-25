@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71586977717",
+    "firebase_url": "https://crud-realtimedb-default-rtdb.firebaseio.com",
+    "project_id": "crud-realtimedb",
+    "storage_bucket": "crud-realtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71586977717:android:92b0fa234338d48ee46bfc",
+        "android_client_info": {
+          "package_name": "com.example.crud_realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71586977717-cvvvetrosu9t796d5nnvtv1vfq1rakr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_realtimedb",
+            "certificate_hash": "e37e59946ed0449eb3ef263f0322f3d20311c6dc"
+          }
+        },
+        {
+          "client_id": "71586977717-ambnv97vto2fg0kd6r1i2pmp56cgvsqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELRFmCAq6rx-0rSr0QGFUaTQs3bZKV38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71586977717-ambnv97vto2fg0kd6r1i2pmp56cgvsqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
